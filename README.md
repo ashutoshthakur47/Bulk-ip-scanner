@@ -101,8 +101,6 @@ This tool uses the free tier of [ip-api.com](http://ip-api.com):
 └── README.md            # This file
 ```
 
-## Screenshots
-
 | Single IP Scan | Bulk Scan with Map |
 |:-:|:-:|
 | Enter one IP → instant results with map | Upload file → progress bar + clustered map |
